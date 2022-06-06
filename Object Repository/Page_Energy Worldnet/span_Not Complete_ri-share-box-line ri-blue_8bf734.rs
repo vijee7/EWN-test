@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Not Complete_ri-share-box-line ri-blue_8bf734</name>
+   <tag></tag>
+   <elementGuidId>3f85d012-29f7-4bf0-9908-f40e4457d5ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ri-share-box-line.ri-blue.cursor-pointer.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabsetTaskListsMain']/div/div/form/div[3]/div[2]/table/tbody/tr/td[13]/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>05ee10a0-4f95-4d68-b928-526800813465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!e.requiresEvaluationPrerequisites</value>
+      <webElementGuid>2dbb49cc-6715-499b-9440-338601e5e5b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ri-share-box-line ri-blue cursor-pointer ng-scope</value>
+      <webElementGuid>7961108f-046e-4009-9811-5c097102ee84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vmMain.launch(e)</value>
+      <webElementGuid>da916e4d-e77e-49b3-904d-3b1b7304b2a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabsetTaskListsMain&quot;)/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/form[@class=&quot;form-horizontal ng-valid ng-scope ng-valid-required ng-dirty ng-valid-parse ng-valid-date&quot;]/div[3]/div[2]/table[@class=&quot;table table-condensed table-striped ng-scope ng-table&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;text-center&quot;]/div[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]/span[@class=&quot;ri-share-box-line ri-blue cursor-pointer ng-scope&quot;]</value>
+      <webElementGuid>a91302ff-d037-4da8-ac11-c094cc3848db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabsetTaskListsMain']/div/div/form/div[3]/div[2]/table/tbody/tr/td[13]/div/span/span</value>
+      <webElementGuid>535d8453-774e-45a4-a8c3-d024d29952c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>6ec3b4a3-f156-45bc-894a-6332fc21a0ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

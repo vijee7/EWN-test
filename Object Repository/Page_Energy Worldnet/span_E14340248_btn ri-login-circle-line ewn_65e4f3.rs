@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_E14340248_btn ri-login-circle-line ewn_65e4f3</name>
+   <tag></tag>
+   <elementGuidId>cb274508-9268-4284-af08-c24c9e5dc486</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.btn.ri-login-circle-line.ewn-blue.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabsetCompanyUsers']/div/div/div/div/table/tbody/tr/td[9]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>03a11715-1812-48d9-9d2d-734110f64918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn ri-login-circle-line ewn-blue ng-scope</value>
+      <webElementGuid>8a34d134-529d-4299-8aa7-236d7262a81d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!!t.userId &amp;&amp; t.isActive &amp;&amp; !t.isDeleted</value>
+      <webElementGuid>c8df7a8e-e30e-488c-bd40-4164bb597e91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vmList.loginAsUser(t.userId)</value>
+      <webElementGuid>31dd0702-9000-4457-a149-a2310fc6c37c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabsetCompanyUsers&quot;)/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/div[@class=&quot;ng-scope&quot;]/div[1]/table[@class=&quot;table table-striped ng-scope ng-table&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;text-center button-cell&quot;]/span[@class=&quot;btn ri-login-circle-line ewn-blue ng-scope&quot;]</value>
+      <webElementGuid>eaa971bf-9309-423d-bafa-57ac4dc7409b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabsetCompanyUsers']/div/div/div/div/table/tbody/tr/td[9]/span</value>
+      <webElementGuid>44bd9934-f0b2-460a-b0ef-ce4f48c56aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/span</value>
+      <webElementGuid>8c30e0a7-0d3b-47e6-ba1f-420ee9246dd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

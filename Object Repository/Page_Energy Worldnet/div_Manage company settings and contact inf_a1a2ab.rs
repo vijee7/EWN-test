@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manage company settings and contact inf_a1a2ab</name>
+   <tag></tag>
+   <elementGuidId>49df7800-1f04-4f3f-9929-bf48a1e2aeef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.link-description.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordiongroup-1085-8278-panel']/div/ul/li/div/a/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68d9c5be-48d8-4781-b085-0900aed3674e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-description ng-binding</value>
+      <webElementGuid>c937e43b-9ae4-4f21-9588-f3b472ca6414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>link.description</value>
+      <webElementGuid>5b204860-1a99-4a5b-8dc5-fa94e84ae46a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage company settings and contact information</value>
+      <webElementGuid>b734e20e-80da-4850-a9fc-ef9117c44c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongroup-1085-8278-panel&quot;)/div[@class=&quot;panel-body&quot;]/ul[@class=&quot;list-group ng-scope&quot;]/li[@class=&quot;list-group-item side-menu-list ng-scope current-page&quot;]/div[@class=&quot;side-menu-list-container&quot;]/a[1]/div[@class=&quot;submenu-item&quot;]/div[@class=&quot;link-description ng-binding&quot;]</value>
+      <webElementGuid>d45fd9b5-5f36-40e2-942f-2544ee49b67e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongroup-1085-8278-panel']/div/ul/li/div/a/div/div[2]</value>
+      <webElementGuid>ba055e67-99b6-4ec0-b7df-a133617b7550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Search'])[1]/following::div[1]</value>
+      <webElementGuid>11e70b53-afc3-403c-b6ad-d0590a0a031f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/following::div[6]</value>
+      <webElementGuid>fe190a48-0146-419d-a7aa-10991ba76954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Search'])[1]/preceding::div[2]</value>
+      <webElementGuid>b00736fa-58af-4711-95f3-9bb407bbd3f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage employee information'])[1]/preceding::div[3]</value>
+      <webElementGuid>2bab674f-1bcb-4368-8993-d0e61aaf8a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage company settings and contact information']/parent::*</value>
+      <webElementGuid>dfdbfc9f-6bc3-4189-84ea-7622959c138d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/div/div[2]</value>
+      <webElementGuid>dae71297-2538-4735-851a-27d6af9013b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Manage company settings and contact information' or . = 'Manage company settings and contact information')]</value>
+      <webElementGuid>a015d827-b258-41ff-aedc-e4f1cad49da7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

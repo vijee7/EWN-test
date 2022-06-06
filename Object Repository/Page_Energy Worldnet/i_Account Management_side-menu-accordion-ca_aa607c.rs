@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Account Management_side-menu-accordion-ca_aa607c</name>
+   <tag></tag>
+   <elementGuidId>47f06170-51b5-43bb-ac69-7ebfaef2ef9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.side-menu-accordion-caret.ri-arrow-down-s-line.side-menu-open</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordiongroup-91-3383-tab']/h4/a/span/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>46e96452-0647-4924-b841-4bd028560a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>side-menu-accordion-caret ri-arrow-down-s-line side-menu-open</value>
+      <webElementGuid>e743d968-8c1c-41fd-80c5-0c4902ca6982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'side-menu-open': com.isOpen, 'side-menu-closed': !com.isOpen}</value>
+      <webElementGuid>1154831c-0d74-48b1-98dc-57a34ec73e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongroup-91-3383-tab&quot;)/h4[@class=&quot;panel-title&quot;]/a[@class=&quot;accordion-toggle&quot;]/span[@class=&quot;ng-binding&quot;]/a[@class=&quot;ng-scope&quot;]/i[@class=&quot;side-menu-accordion-caret ri-arrow-down-s-line side-menu-open&quot;]</value>
+      <webElementGuid>72f8afe5-2a6f-4e10-84ab-bc6b38633566</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongroup-91-3383-tab']/h4/a/span/a/i</value>
+      <webElementGuid>c3f376da-89a9-4eb5-ada1-933ebff42938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/h4/a/span/a/i</value>
+      <webElementGuid>cb90518f-7cd1-486a-a3f8-2d9d62811057</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

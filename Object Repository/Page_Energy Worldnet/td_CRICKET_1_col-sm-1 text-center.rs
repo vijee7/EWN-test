@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_CRICKET_1_col-sm-1 text-center</name>
+   <tag></tag>
+   <elementGuidId>8a989d3d-04f4-4804-883d-6c758fdcf59b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabsetTasksDetails']/div/div[2]/div/form/div[3]/div[2]/table/tbody/tr/td[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0423e8c8-0ef8-4338-9457-8ae8101bdaa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-header</name>
+      <type>Main</type>
+      <value>'task-condition-select-all-header_0.html'</value>
+      <webElementGuid>8d6d8d73-5b4b-422f-8986-95c2ee787099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-1 text-center</value>
+      <webElementGuid>0299f3ec-f5fc-494c-bfa4-eccdfc23f265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>true &amp;&amp; !vmTasks.isViewOnly &amp;&amp; !condition.isEditMode &amp;&amp; !vmTasks.areAnyTaskConditionsInEditMode()</value>
+      <webElementGuid>3b9d1174-aca6-469a-8e37-382985f81be6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabsetTasksDetails&quot;)/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;form-horizontal ng-valid ng-valid-required ng-dirty&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/table[@class=&quot;table table-condensed table-striped ng-scope ng-table&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;col-sm-1 text-center&quot;]</value>
+      <webElementGuid>d7c3f801-6f69-4302-b75b-b83b0ae69861</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabsetTasksDetails']/div/div[2]/div/form/div[3]/div[2]/table/tbody/tr/td[12]</value>
+      <webElementGuid>1db873e6-84be-46de-97df-c76a0b2a0911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRICKET_1'])[2]/following::td[8]</value>
+      <webElementGuid>ff606880-08d1-4161-a174-79265faf4876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computer Based Training'])[1]/following::td[10]</value>
+      <webElementGuid>fdc52e2a-a774-4331-a23a-c0d0775be3f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computer Based Training'])[2]/preceding::td[2]</value>
+      <webElementGuid>d21535ff-2e0a-4908-92d2-cdf4ebbd1cc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRICKET_3'])[2]/preceding::td[4]</value>
+      <webElementGuid>47fe83e6-2379-45b3-8e1a-1d1e2ecd2446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[12]</value>
+      <webElementGuid>692a649c-e0cb-4a58-8f58-d4ce58992117</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Available Evaluations_btn btn-sm btn-de_dc68e7</name>
+   <tag></tag>
+   <elementGuidId>54f09969-032d-4d9a-ac8d-ab49f1690175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn.btn-sm.btn-default.ri-arrow-right-s-line</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabsetTasksDetails']/div/div[3]/div/form/ewn-evaluation-dual-listbox/div/ewn-dual-list/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>788fcf8e-2fdf-4664-a843-85efd591cb4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-default ri-arrow-right-s-line</value>
+      <webElementGuid>55f0f0d0-58fd-4d1a-84b7-4b236380de65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.move(vm.left.filteredItems, config.left.items, config.right.items)</value>
+      <webElementGuid>6212501f-e0ee-4e87-b840-ff345719b69a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabsetTasksDetails&quot;)/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;form-horizontal ng-valid ng-submitted ng-dirty&quot;]/ewn-evaluation-dual-listbox[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1&quot;]/ewn-dual-list[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;dual-list clearfix&quot;]/div[@class=&quot;col-xs-12 col-sm-12 col-md-2 col-lg-2 text-center move-button-group&quot;]/div[@class=&quot;btn btn-sm btn-default ri-arrow-right-s-line&quot;]</value>
+      <webElementGuid>0d961326-4a44-4868-ba54-3cda44e14e6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabsetTasksDetails']/div/div[3]/div/form/ewn-evaluation-dual-listbox/div/ewn-dual-list/div/div[2]/div</value>
+      <webElementGuid>e036ae0b-7385-4e5e-8ce6-325aa2829551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ewn-dual-list/div/div[2]/div</value>
+      <webElementGuid>3a58ce2b-5ae0-4bac-8f0c-7daf782350fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

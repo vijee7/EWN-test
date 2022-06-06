@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Previous</name>
+   <tag></tag>
+   <elementGuidId>4ef6b67e-e550-451a-9e14-ff5ebf263535</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pagination']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.prev > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c7fee30c-83f9-494a-914d-7ce9a733a996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/computers?p=0&amp;n=10&amp;s=name&amp;d=asc</value>
+      <webElementGuid>4d9d8c96-fe3c-4d35-b594-157957b15b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>← Previous</value>
+      <webElementGuid>d948c8d8-70f0-45bd-a456-832aca33bfad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagination&quot;)/ul[1]/li[@class=&quot;prev&quot;]/a[1]</value>
+      <webElementGuid>45987797-37d1-46f1-8267-0dc5bc60b01f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagination']/ul/li/a</value>
+      <webElementGuid>1c3dbe55-f850-46e2-95bc-d9df6dea9178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'← Previous')]</value>
+      <webElementGuid>cabe9126-278f-427a-a169-4df798eb8a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[21]/following::a[1]</value>
+      <webElementGuid>67097151-6fd9-4dc3-97f2-6bef414d7de2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[20]/following::a[1]</value>
+      <webElementGuid>49cb3785-2cf3-44d3-b649-daef5c714506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Displaying 11 to 20 of 574'])[1]/preceding::a[1]</value>
+      <webElementGuid>56c5e0e1-0a8e-4aa4-b3a7-170194730a0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next →'])[1]/preceding::a[2]</value>
+      <webElementGuid>21efd1a8-f4a6-43f0-90fa-32f719fb503a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='← Previous']/parent::*</value>
+      <webElementGuid>c04f3abf-5482-4936-8886-2f9f7fd98c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/computers?p=0&amp;n=10&amp;s=name&amp;d=asc')]</value>
+      <webElementGuid>ba2cd2a8-8b67-4e4e-972a-1c3faca341e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>09c66f23-a794-492a-8580-8d8f9322269b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/computers?p=0&amp;n=10&amp;s=name&amp;d=asc' and (text() = '← Previous' or . = '← Previous')]</value>
+      <webElementGuid>44a1f493-e687-452e-9603-95b22c4cb2db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

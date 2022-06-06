@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Requirements</name>
+   <tag></tag>
+   <elementGuidId>c066ce49-1e90-4425-b85e-abe7d70f023d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.button-primary.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='ng-app']/body/div[3]/div/div[2]/div[2]/div[3]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9ee95bc3-ad8a-4e24-8511-4038e0cf9c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn button-primary ng-scope</value>
+      <webElementGuid>c6c7c1f4-0e5c-4cc5-a9b7-d7acc9fd97ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/PROIINET/MyRequirements</value>
+      <webElementGuid>6c07d312-5ae5-44a4-948c-f8a5c012ce8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translate</name>
+      <type>Main</type>
+      <value>ui_Assessment_MyRequirementsButton</value>
+      <webElementGuid>0b2c9da2-b25f-462b-bb9d-9556313fb899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Requirements</value>
+      <webElementGuid>520870c6-9ccc-4612-b133-70add81ab091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ng-app&quot;)/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;main-container container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[2]/div[@class=&quot;col-md-8 col-lg-8&quot;]/div[@class=&quot;text-center assessment-completed-btn-container ng-scope&quot;]/a[@class=&quot;btn button-primary ng-scope&quot;]</value>
+      <webElementGuid>38b60e09-f577-4284-93ec-35f7ff29b557</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ng-app']/body/div[3]/div/div[2]/div[2]/div[3]/a[2]</value>
+      <webElementGuid>a27a64f1-a7d4-4a19-903f-ce12886ed92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Requirements')]</value>
+      <webElementGuid>04d2696f-115c-4756-b287-68a8ade1a19c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return to Launch Page'])[1]/following::a[1]</value>
+      <webElementGuid>8e1b020d-ae9d-4788-9341-903d58152dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Wait...'])[1]/following::a[2]</value>
+      <webElementGuid>03387993-e687-49d1-9b6d-254c837fd4f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Wait...'])[2]/preceding::a[1]</value>
+      <webElementGuid>67066f85-04b8-4e58-880f-a50e8b86813b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Requirements']/parent::*</value>
+      <webElementGuid>cae85725-4635-4253-ac8a-9dd3fd24455e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/PROIINET/MyRequirements')])[2]</value>
+      <webElementGuid>d24768de-733c-43da-bfcb-ed4d9c4b5edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a[2]</value>
+      <webElementGuid>b9b5b3da-5b94-4c23-a2af-7de47603cdd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/PROIINET/MyRequirements' and (text() = 'My Requirements' or . = 'My Requirements')]</value>
+      <webElementGuid>d386ca80-163a-444c-aeb0-7ee2544bf305</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

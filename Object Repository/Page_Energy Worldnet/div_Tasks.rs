@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tasks</name>
+   <tag></tag>
+   <elementGuidId>93f1ff38-fb33-4969-a323-41e0bfdc9d3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#accordiongroup-93-749-panel > div.panel-body > ul.list-group.ng-scope > li.list-group-item.side-menu-list.ng-scope > div.side-menu-list-container > a > div.submenu-item > div.link-title.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordiongroup-93-749-panel']/div/ul/li/div/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aef3b455-1f93-4a71-9d38-252172be158b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-title ng-binding</value>
+      <webElementGuid>0d0b1fa2-5d8c-405c-9f9e-0a1f6f2c46b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>link.title</value>
+      <webElementGuid>fd0b85c9-d011-42fc-9878-fb58d33f21b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tasks</value>
+      <webElementGuid>f4670b34-bd38-44ae-b84f-646001d2a1cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongroup-93-749-panel&quot;)/div[@class=&quot;panel-body&quot;]/ul[@class=&quot;list-group ng-scope&quot;]/li[@class=&quot;list-group-item side-menu-list ng-scope&quot;]/div[@class=&quot;side-menu-list-container&quot;]/a[1]/div[@class=&quot;submenu-item&quot;]/div[@class=&quot;link-title ng-binding&quot;]</value>
+      <webElementGuid>6b251cb1-c822-4c78-a34e-02822e8c844b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongroup-93-749-panel']/div/ul/li/div/a/div/div</value>
+      <webElementGuid>10fadee8-5ada-4316-a218-7ea14b1b48bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task Management'])[1]/following::div[5]</value>
+      <webElementGuid>c6f9ff0f-034a-4c00-b02f-740478284176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Executive Dashboard'])[1]/following::div[8]</value>
+      <webElementGuid>7fd28857-4b92-41cd-87e7-d2d5028b2a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage, edit, and add new tasks'])[1]/preceding::div[1]</value>
+      <webElementGuid>08fa001e-0837-4bb3-a8ef-91ee44d37b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task Lists'])[1]/preceding::div[3]</value>
+      <webElementGuid>5d9b0456-fdbb-452e-a4b7-6e32cf379fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tasks']/parent::*</value>
+      <webElementGuid>4c115209-4aa2-4a39-ad2a-4f14e6292a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/ul/li/div/a/div/div</value>
+      <webElementGuid>73d579c7-b2cd-4c1b-b411-14773bfe80db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tasks' or . = 'Tasks')]</value>
+      <webElementGuid>5efba43a-08c3-472a-8213-9c3a197392b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
